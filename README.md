@@ -78,4 +78,4 @@ Los resultados se guardan automáticamente en archivos con el formato:
 Esta herramienta está diseñada para fines educativos y de administración de redes legítimas. Asegúrate de tener el permiso adecuado antes de escanear cualquier red.
 ---
 
-✍️ Autor: Geuz
+✍️ Autor: Geuz2248
