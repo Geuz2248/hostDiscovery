@@ -23,8 +23,10 @@ El script instalará automáticamente las dependencias si no están presentes:
 
 El script instalará automáticamente las dependencias necesarias al ejecutarse por primera vez:
 
-git clone LINK
+```
+git clone https://github.com/Geuz2248/hostDiscovery
 cd hostDiscovery
+```
 
 ## ⚙️ Uso
 
